@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.venv/
+venv/
+env/
+
+# WorkBuddy internal
+.workbuddy/
+
+# Generated output (keep code and docs, exclude runtime output)
+*_AI生成报告/
+*_参数卡片*
+*_完整报告.docx
+*_项目信息摘要.md
